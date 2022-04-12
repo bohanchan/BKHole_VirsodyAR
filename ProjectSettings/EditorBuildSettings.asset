@@ -5,4 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes: []
-  m_configObjects: {}
+  m_configObjects:
+    AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: 00eb3fb40125a714f890666fd2b03bf4,
+      type: 2}
+    AR Foundation RemoteARFoundationRemoteSessionRecordsData: {fileID: 11400000, guid: 5f8c71d4d0f6d464b838a8b6c794ceca,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a5d61bc2549362a4393af3c716d7d577,
+      type: 2}
